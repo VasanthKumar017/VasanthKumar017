@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vasanth Kumar</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<div class="tenor-gif-embed" data-postid="22656380" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cat-space-nyan-cat-gif-22656380">Cat Space GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 <p align="center">
  <img width="1000" src="./github-snake.svg" alt="snake"/>
