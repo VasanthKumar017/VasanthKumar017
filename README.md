@@ -10,7 +10,7 @@
   <img width="500" height="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasanthKumar017&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vasanthkumar017" alt="vasanthkumar017" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vasanthkumar017" alt="vasanthkumar017" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
