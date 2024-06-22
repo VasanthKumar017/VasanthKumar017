@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/getintorj/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=WEB%20DEVELOPER%20;SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;PROGRAMMER%20;4%2B%20YEAR's%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=FULL-STACK%20WEB%20DEVELOPER;SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;PROGRAMMER%20;4%2B%20YEAR's%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
