@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vasanth Kumar</h1>
 <h3 align="center">A passionate developer from India</h3>
-<div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/PYh" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+<div style="padding-top:100.000%;position:relative;"><img src="https://gifer.com/embed/PYh" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen/></div><p><a href="https://gifer.com">via GIFER</a></p>
 
 <p align="center">
  <img width="1000" src="./github-snake.svg" alt="snake"/>
