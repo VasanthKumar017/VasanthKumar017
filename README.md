@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vasanth Kumar</h1>
 <h3 align="center">A passionate developer from India</h3>
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="./github-snake.svg" alt="snake"/>
 </p>
 
 
